@@ -1,0 +1,19 @@
+C:\Users\fatihgunalp\Google Drive\Sınıflar\Kadıköy\YMS3133\3.OOP\24.10\WFA_HastaneRandevu\WFA_HastaneRandevu\bin\Debug\WFA_HastaneRandevu.exe.config
+C:\Users\fatihgunalp\Google Drive\Sınıflar\Kadıköy\YMS3133\3.OOP\24.10\WFA_HastaneRandevu\WFA_HastaneRandevu\bin\Debug\WFA_HastaneRandevu.exe
+C:\Users\fatihgunalp\Google Drive\Sınıflar\Kadıköy\YMS3133\3.OOP\24.10\WFA_HastaneRandevu\WFA_HastaneRandevu\bin\Debug\WFA_HastaneRandevu.pdb
+C:\Users\fatihgunalp\Google Drive\Sınıflar\Kadıköy\YMS3133\3.OOP\24.10\WFA_HastaneRandevu\WFA_HastaneRandevu\obj\Debug\WFA_HastaneRandevu.csprojAssemblyReference.cache
+C:\Users\fatihgunalp\Google Drive\Sınıflar\Kadıköy\YMS3133\3.OOP\24.10\WFA_HastaneRandevu\WFA_HastaneRandevu\obj\Debug\WFA_HastaneRandevu.Form1.resources
+C:\Users\fatihgunalp\Google Drive\Sınıflar\Kadıköy\YMS3133\3.OOP\24.10\WFA_HastaneRandevu\WFA_HastaneRandevu\obj\Debug\WFA_HastaneRandevu.Properties.Resources.resources
+C:\Users\fatihgunalp\Google Drive\Sınıflar\Kadıköy\YMS3133\3.OOP\24.10\WFA_HastaneRandevu\WFA_HastaneRandevu\obj\Debug\WFA_HastaneRandevu.csproj.GenerateResource.cache
+C:\Users\fatihgunalp\Google Drive\Sınıflar\Kadıköy\YMS3133\3.OOP\24.10\WFA_HastaneRandevu\WFA_HastaneRandevu\obj\Debug\WFA_HastaneRandevu.csproj.CoreCompileInputs.cache
+C:\Users\fatihgunalp\Google Drive\Sınıflar\Kadıköy\YMS3133\3.OOP\24.10\WFA_HastaneRandevu\WFA_HastaneRandevu\obj\Debug\WFA_HastaneRandevu.exe
+C:\Users\fatihgunalp\Google Drive\Sınıflar\Kadıköy\YMS3133\3.OOP\24.10\WFA_HastaneRandevu\WFA_HastaneRandevu\obj\Debug\WFA_HastaneRandevu.pdb
+C:\Users\FATIH SIVASLIOGLU\Desktop\bilge adam\c#\24.10.2019-\WFA_HastaneRandevu-2\WFA_HastaneRandevu\WFA_HastaneRandevu\bin\Debug\WFA_HastaneRandevu.exe.config
+C:\Users\FATIH SIVASLIOGLU\Desktop\bilge adam\c#\24.10.2019-\WFA_HastaneRandevu-2\WFA_HastaneRandevu\WFA_HastaneRandevu\bin\Debug\WFA_HastaneRandevu.exe
+C:\Users\FATIH SIVASLIOGLU\Desktop\bilge adam\c#\24.10.2019-\WFA_HastaneRandevu-2\WFA_HastaneRandevu\WFA_HastaneRandevu\bin\Debug\WFA_HastaneRandevu.pdb
+C:\Users\FATIH SIVASLIOGLU\Desktop\bilge adam\c#\24.10.2019-\WFA_HastaneRandevu-2\WFA_HastaneRandevu\WFA_HastaneRandevu\obj\Debug\WFA_HastaneRandevu.csprojAssemblyReference.cache
+C:\Users\FATIH SIVASLIOGLU\Desktop\bilge adam\c#\24.10.2019-\WFA_HastaneRandevu-2\WFA_HastaneRandevu\WFA_HastaneRandevu\obj\Debug\WFA_HastaneRandevu.Form1.resources
+C:\Users\FATIH SIVASLIOGLU\Desktop\bilge adam\c#\24.10.2019-\WFA_HastaneRandevu-2\WFA_HastaneRandevu\WFA_HastaneRandevu\obj\Debug\WFA_HastaneRandevu.Properties.Resources.resources
+C:\Users\FATIH SIVASLIOGLU\Desktop\bilge adam\c#\24.10.2019-\WFA_HastaneRandevu-2\WFA_HastaneRandevu\WFA_HastaneRandevu\obj\Debug\WFA_HastaneRandevu.csproj.GenerateResource.cache
+C:\Users\FATIH SIVASLIOGLU\Desktop\bilge adam\c#\24.10.2019-\WFA_HastaneRandevu-2\WFA_HastaneRandevu\WFA_HastaneRandevu\obj\Debug\WFA_HastaneRandevu.exe
+C:\Users\FATIH SIVASLIOGLU\Desktop\bilge adam\c#\24.10.2019-\WFA_HastaneRandevu-2\WFA_HastaneRandevu\WFA_HastaneRandevu\obj\Debug\WFA_HastaneRandevu.pdb
